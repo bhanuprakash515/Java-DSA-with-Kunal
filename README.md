@@ -1,6 +1,6 @@
 # Kunal Kushwaha DSA
 
-**What is Programming**: Programming is the process of writing instructions for a computer to follow. These instructions are called code and are written in a programming language
+### **What is Programming**: _Programming is the process of writing instructions for a computer to follow. These instructions are called code and are written in a programming language_
 
 **What is Java? **
       Java is a programming language and computing platform that's used to create applications, operating systems, and other software. It's a popular choice for developers because it's fast, secure, and reliable. 
