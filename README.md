@@ -1,4 +1,4 @@
-#**@Kunal Kushawaha DSA**
+#Kunal Kushwaha DSA
 
 **What is Programming**: Programming is the process of writing instructions for a computer to follow. These instructions are called code and are written in a programming language
 
@@ -13,5 +13,5 @@
     b: Java is used to create technologies that run on servers. 
 
 
-
+**DataTypes In Java**
 
