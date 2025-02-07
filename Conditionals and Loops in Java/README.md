@@ -16,61 +16,27 @@ Conditional statements in Java allow the execution of different code blocks base
 The `if` statement checks a condition and executes a block of code only if the condition is `true`.
 
 ✅ **Syntax:**
-```java
+java
 if (condition) {
     // Code to execute if condition is true
 }
-✅ Example:
 
-java
-Copy
-Edit
-int age = 20;
-if (age >= 18) {
-    System.out.println("You are eligible to vote.");
-}
 🔹 Real-world use case:
 Checking if a user is old enough to access certain content.
 
-2️⃣ If-Else Statement
+## 2️⃣ If-Else Statement
 The if-else statement executes one block if the condition is true and another if it is false.
 
-✅ Example:
 
-java
-Copy
-Edit
-int number = 10;
-if (number % 2 == 0) {
-    System.out.println("Even Number");
-} else {
-    System.out.println("Odd Number");
-}
 🔹 Real-world use case:
 Login validation - If the username and password match, allow access; otherwise, show an error.
 
-3️⃣ Else-If Ladder
+## 3️⃣ Else-If Ladder
 Used when there are multiple conditions to check sequentially.
-
-✅ Example:
-
-java
-Copy
-Edit
-int marks = 85;
-if (marks >= 90) {
-    System.out.println("Grade: A");
-} else if (marks >= 75) {
-    System.out.println("Grade: B");
-} else if (marks >= 60) {
-    System.out.println("Grade: C");
-} else {
-    System.out.println("Grade: D");
-}
 🔹 Real-world use case:
 Determining tax brackets based on income.
 
-4️⃣ Switch Statement
+## 4️⃣ Switch Statement
 Used when a variable needs to be compared against multiple fixed values.
 
 ✅ Syntax:
@@ -88,29 +54,11 @@ switch (expression) {
     default:
         // Code block if no case matches
 }
-✅ Example:
 
-java
-Copy
-Edit
-int day = 3;
-switch (day) {
-    case 1:
-        System.out.println("Monday");
-        break;
-    case 2:
-        System.out.println("Tuesday");
-        break;
-    case 3:
-        System.out.println("Wednesday");
-        break;
-    default:
-        System.out.println("Invalid day");
-}
 🔹 Real-world use case:
 Creating a simple menu-driven program where the user selects an option.
 
-5️⃣ Ternary Operator
+## 5️⃣ Ternary Operator
 A shorthand for if-else that reduces code complexity.
 
 ✅ Syntax:
@@ -132,7 +80,7 @@ Setting a default value if a user input is missing.
 
 🏆 Best Practices
 ✅ Always use curly braces {} for clarity, even in single-line conditions.
-✅ Optimize performance by using switch instead of multiple if-else conditions when checking a single variable.
+✅ Optimize performance by switching instead of multiple if-else conditions when checking a single variable.
 ✅ Prefer the ternary operator for simple conditional assignments but avoid using it for complex logic.
 ✅ Ensure all conditions in an if-else or switch are well-defined to prevent unexpected behavior.
 
@@ -149,7 +97,7 @@ Loops in Java are used to execute a block of code multiple times until a specifi
 1. `for` Loop
 2. `while` Loop
 3. `do-while` Loop
-4. Enhanced `for` Loop (for-each)
+4. Enhanced `for` Loop (for each)
 
 ---
 
@@ -157,12 +105,11 @@ Loops in Java are used to execute a block of code multiple times until a specifi
 The `for` loop is used when the number of iterations is known beforehand.
 
 ✅ **Syntax:**
-```java
-for (initialization; condition; update) {
+for(initialization; condition; update) {
     // Code to execute in each iteration
 }
 
-2️⃣ While Loop
+## 2️⃣ While Loop
 The while loop executes a block of code as long as the given condition is true.
 
 ✅ Syntax:
@@ -174,7 +121,7 @@ while (condition) {
     // Code to execute
 }
 
-3️⃣ Do-While Loop
+## 3️⃣ Do-While Loop
 The do-while loop is similar to while, but it ensures that the code inside the loop runs at least once before checking the condition.
 
 ✅ Syntax:
