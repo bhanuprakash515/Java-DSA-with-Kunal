@@ -21,7 +21,7 @@ _**Big data applications**: Java is used to create applications that work with b
 
 
 
-### _📢📢NOTE: I have created a README.md file in each topic-wise folder with detailed explanations. Please review them. It will be help for your Interviews...!_
+### _📢📢NOTE: I have created a README.md file in each topic-wise folder with detailed explanations. Please review them. It will be helpful for your Interviews...!_
 
 
 
