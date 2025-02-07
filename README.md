@@ -3,7 +3,11 @@
 ### **What is Programming**:
 _Programming is the process of writing instructions for a computer to follow. These instructions are called code and are written in a programming language_
 
-### **What is Java?**
+### **What is Java?** 
+
+![Screenshot_2025-02-07_172007-removebg-preview](https://github.com/user-attachments/assets/b6a61ae7-a489-4c82-ac67-a2af431e9593)
+
+
 
 _Java is a programming language and computing platform that's used to create applications, operating systems, and other software. It's a popular choice for developers because it's fast, secure, and reliable._ 
 
