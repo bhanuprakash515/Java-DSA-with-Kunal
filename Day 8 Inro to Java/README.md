@@ -1,11 +1,12 @@
-Java Data Types, Type Conversion, and Type Casting - README.md
-markdown
-Copy
-Edit
+
 # 🔢 Java Data Types, Type Conversion & Type Casting  
 
+
+
+
+
 ## 📌 Overview  
-_Java is a **statically-typed** language, meaning every variable must have a defined data type. Data types define the type and size of data a variable can store.  
+_Java is a **statically-typed** language, meaning every variable must have a defined data type. Data types define the type and size of data a variable can store._  
 
 ### **Java supports:**
 
@@ -13,11 +14,12 @@ _✅ **Primitive Data Types** (Basic types)
 ✅ **Non-Primitive Data Types** (Reference types like objects, arrays, and strings)  
 ✅ **Type Conversion & Type Casting** (Converting one data type to another)_
 
----
+
 
 ## 1️⃣ Java Data Types  
 
 ### 🔹 Primitive Data Types (Built-in)  
+
 _Java has **8 primitive data types**:  
 
 | Data Type | Size | Default Value | Description |
@@ -34,16 +36,15 @@ _Java has **8 primitive data types**:
 
 ### 🔹 Non-Primitive Data Types (Reference Types)
 
- _Non-primitive types are more complex data structures and include:
+ _Non-primitive types are more complex data structures and include:_
 
-String (sequence of characters)
-Arrays (collection of elements)
-Classes & Objects
-Interfaces
-_
+_String (sequence of characters)
+_Arrays (collection of elements)
+_Classes & Objects
+Interfaces_
 
 ### 2️⃣ Type Conversion in Java
-__Type conversion is the process of converting data from one type to another._
+_Type conversion is the process of converting data from one type to another._
 
 🔹 Implicit Type Conversion (Widening)
 _Happens automatically when a smaller data type is converted into a larger one._
@@ -64,8 +65,14 @@ _✅ Use widening conversions whenever possible to avoid data loss.
 
 ### 📢 Conclusion
 
-_Understanding data types, type conversion, and type casting is essential in Java programming. Correct usage ensures efficient memory usage and prevents errors.
-_
+_Understanding data types, type conversion, and type casting is essential in Java programming. Correct usage ensures efficient memory usage and prevents errors._
 
-_### 🚀 Happy Coding! 🎯_
+
+
+
+### Follow me on Linkedin:- _https://www.linkedin.com/in/bhanuprakashkurugodu/_
+
+
+
+### _🚀Happy Coding! 🎯_
 
