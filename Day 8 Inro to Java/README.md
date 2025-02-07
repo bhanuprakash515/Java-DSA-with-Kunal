@@ -20,7 +20,7 @@ _✅ **Primitive Data Types** (Basic types)
 
 ### 🔹 Primitive Data Types (Built-in)  
 
-_Java has **8 primitive data types**:  
+ **8 primitive data types**:  
 
 | Data Type | Size | Default Value | Description |
 |-----------|------|--------------|-------------|
@@ -44,20 +44,29 @@ _Classes & Objects
 Interfaces_
 
 ### 2️⃣ Type Conversion in Java
+
 _Type conversion is the process of converting data from one type to another._
 
-🔹 Implicit Type Conversion (Widening)
+### 🔹Implicit Type Conversion (Widening)
+
 _Happens automatically when a smaller data type is converted into a larger one._
 
 
 
 ### 3️⃣ Type Casting in Java
-_Type casting forces a variable to be converted into another type.
-🔹 Widening Casting (Automatic) Converts a smaller type to a larger type.Safe, no data loss.
-🔹 String to Numeric Conversion
-  We can convert a String to a number using wrapper classes like **Integer.parseInt()**, **Double.parseDouble()**, etc._
+
+_Type casting forces a variable to be converted into another type._
+
+### 🔹 Widening Casting (Automatic) 
+
+_Converts a smaller type to a larger type. Safe, no data loss._
+
+### 🔹 String to Numeric Conversion
+
+  _We can convert a String to a number using wrapper classes like **Integer.parseInt()**, **Double.parseDouble()**, etc._
 
 ### 🏆 Best Practices
+
 _✅ Use widening conversions whenever possible to avoid data loss.
 ✅ Be careful with narrowing conversions (may lose precision).
 ✅ Use wrapper classes (Integer.parseInt(), Double.parseDouble()) for string conversion.
